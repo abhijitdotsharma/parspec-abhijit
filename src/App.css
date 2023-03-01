@@ -1,0 +1,39 @@
+
+.App {
+  font-family: sans-serif;
+}
+
+
+.main {
+  margin: 0 auto;
+  padding: 30px;
+  border: 1px solid #ccc;
+}
+
+
+.input-div input {
+  width: 100%;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.content-div {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.content-div li {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.focussed {
+  background-color: lightblue;
+}
+
+
